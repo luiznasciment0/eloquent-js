@@ -1,4 +1,4 @@
-for (let number = 0; number <= 100; number++) {
+for (let number = 1; number <= 100; number++) {
     const isNotZero = number !== 0
 
     const isDivisibleByThree = isNotZero && number % 3 === 0
